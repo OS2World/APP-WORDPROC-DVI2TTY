@@ -1,0 +1,13 @@
+total 202
+-rw-r--r--   1 ctan_us  mirror       712 Jan 13 22:07 00Contents
+-rw-rw-r--   1 ctan_us  mirror      2573 Jan 13 09:00 DVI.format
+-rw-rw-r--   1 ctan_us  mirror       437 Jan 13 08:59 MANIFEST
+-rw-rw-r--   1 ctan_us  mirror       454 Jan 13 09:00 Makefile
+-rw-rw-r--   1 ctan_us  mirror      1998 Jan 13 09:00 README
+-rw-rw-r--   1 ctan_us  mirror      1051 Jan 13 09:00 README.ORG
+-rw-rw-r--   1 ctan_us  mirror      3506 Jan 13 08:57 commands.h
+-rw-rw-r--   1 ctan_us  mirror     14923 Jan 13 08:59 disdvi.c
+-rw-rw-r--   1 ctan_us  mirror      4291 Jan 13 08:57 dvi2tty.1
+-rw-rw-r--   1 ctan_us  mirror     24710 Jan 13 08:56 dvi2tty.c
+-rw-rw-r--   1 ctan_us  mirror      3789 Jan 13 08:57 dvi2tty.h
+-rw-rw-r--   1 ctan_us  mirror     38244 Jan 13 08:53 dvistuff.c
